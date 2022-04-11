@@ -1,0 +1,3 @@
+/public/media/*
+/django_env
+.env
