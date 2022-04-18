@@ -12,7 +12,7 @@ python3 -m venv django_env
 django_env\Scripts\activate.bat
 Clone this repository
 
-git clone https://github.com/MohsinUddinAbir/django_crud_app.git
+git clone https://github.com/GogaLaurentiu/Countries-in-the-world-by-Population.git
 Enter on project root and install dependency
 
 cd django_crud_app
