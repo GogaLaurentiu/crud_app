@@ -26,9 +26,13 @@ pip install -r requirements.txt
 Setup PostgreSQL database config from .env
 
 DB_NAME=
+
 DB_USER=
+
 DB_PASSWORD=
+
 DB_HOST=
+
 DB_PORT=
 
 
