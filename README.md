@@ -23,25 +23,4 @@ cd django_crud_app
 
 pip install -r requirements.txt
 
-Setup PostgreSQL database config from .env
 
-DB_NAME=
-
-DB_USER=
-
-DB_PASSWORD=
-
-DB_HOST=
-
-DB_PORT=
-
-
-Migrate database
-
-python manage.py makemigrations
-
-python manage.py migrate
-
-Run project
-
-python manage.py runserver
