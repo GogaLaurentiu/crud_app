@@ -21,6 +21,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-### TESTING FOR GIT COMMIT AFTR PYCHARM UPDATE
+### check if this backup is the right one clnked with git hub to continue work
 
 
